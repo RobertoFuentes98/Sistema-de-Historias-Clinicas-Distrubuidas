@@ -8,7 +8,7 @@ Nota: Todos los comandos fueron testeados en Debian GNU/Linux 13 (trixie). Se re
 ```
 sudo apt update && sudo apt upgrade-y
 ```
-### 2. Instalar utilidades y herramientas de desarrollo.
+### 2. Instalar utilidades y herramientas de desarrolalo.
 ```
 sudo apt install -y curl wget git vim htop unzip ca-certificates python3 python3-pip python3-venv libcairo2 libpango-1.0-0 libgdk-pixbuf-2.0-0 libffi-dev shared-mime-info libjpeg-dev libxml2 libxslt1.1
 ```
